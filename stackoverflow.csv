@@ -1,0 +1,259 @@
+descripcion,id,pregunta
+"
+            tengo un inconveniente con una consulta en SQL
+Cree una query que me trae en formato de 15 minutos las llamadas de un sistema,
+el problema es que cuando pongo mas de 1 dia me agrega otra fila.
+ por ...
+        ",[0],Problema para sumar dias en intervalos SQL SERVER
+"
+            tengo este programa (está sin terminar), pero tengo un problema, ya que a la hora de anyadir la funcion definida listarEstados() me falla el programa (dentro del menú opción 1). ¿Alguna solución?
+
+...
+        ",[1],fallo en el menu
+"
+            Hola buenas profesionales.
+
+Estoy realizando un ejercicio para clases de SIINF y me he encontrado un problema con el control de errores.
+
+Las directrices a seguir son: 
+1er argumento: Número entero ...
+        ",[2],Problema con el control de errores de un script Batch
+"
+            Tengo una función en js que utiliza AJAX para subir un archivo, si no he seleccionado ningún archivo y hago el click al botón subir la acción del js se ejecuta sin problemas (muestra un alert si no se ...
+        ",[3],¿Por qué AJAX se ejecuta hasta el 2do click y no en el 1ro?
+"
+            como puedo paginar un listado de registros que viene de mongodb, implemente un paginador usando asp.net core , blazor y entity freamwork, ya funciona usando dbset y registros de sql intento usarlo de ...
+        ",[4],¿como solucionar el error IQueryable doesn't implement IAsyncQueryProvider?
+"
+            Estoy renderizando una view para mostrar productos, estoy tratando de acomodar unas cards dentro de un row pero no consigo el resultado deseado.Creo estar equivocado en la forma que los aprendi a usar ...
+        ",[5],Grids anidados con react-bootstrap?
+"
+            ¿ me podrian ayudar a lo siguiente?:
+
+Tengo una Lista de objetos.y dentro de mi lista tengo otro objeto con listas quisiera saber la manera de poder agrupar es decir:
+
+Tengo mi clase principal que es ...
+        ",[6],Agrupar una lista de objetos dentro de otra lista
+"
+            Con el código para una sencilla aplicación en mano, me disponía a utilizar buildozer para poder ejecutarlo desde mi móvil.
+Como el log es demasiado largo no me permite introducirlo aquí enteramente, ...
+        ",[7],Fallo en Buildozer
+"
+            Tengo un problema con este pequeño codigo, Estoy intentando extraer lo que se encuentra dentro de aquel script, Pero no se me ocurre una forma de declarar la busqueda. Dejo el código.
+
+from bs4 import ...
+        ",[8],"Web Scraping Python, Extraer contenido de script"
+"
+            Al ocultar una Smart Slider en el movil, me sigue dejando un espacio en blanco en el sitio en el que estaba, aunque en el ordenador este espacio no me sale. Solamente añadí esto: 
+
+@media only screen ...
+        ",[9],Espacio en blanco al ocultar en el movil
+"
+            No tengo mucha experiencia con ROR (Rubt-On-Rails), estoy creando una aplicación sencilla por los momentos e implemente Bootstrap 4, realice la instalación como la vi en esta Guía, Todo funciona bien! ...
+        ",[10],Aplicación en Rails 5 con Bootstrap 4 no se adapta a dispositivos móvil
+"
+            he instalado lo siguiente en laravel, este archivo contiene funciones, mi duda es como utilizar estas funciones en el web.php o en un controlador. 
+He probado lo siguiente en el web.php y me da este ...
+        ",[11],"Importar un fichero que se encuentra en Vendor, Laravel 7"
+"
+            ¿Cómo puedo agregar una imagen de fondo a un JFrame en Java Swing?
+
+Código:
+
+import java.awt.Graphics;
+import java.awt.Image;
+import java.net.URL;
+import javax.swing.ImageIcon;
+import javax.swing....
+        ",[12],Agregar imagen de fondo a un JFrame
+"
+            necesito ayuda con mi app de ionic, ya que al ejecutar ""ionic cordova build android"" e instalar el apk generado en mi smartphone solo funciona a medias, algunos elementos no aparecen, a pesar de que ...
+        ",[13],al instalar el apk de mi app ionic en mi smartphone no funciona completa
+"
+            programando en Xcode una aplicacion que llama unos servicios nuevos. El llamado de otros servicios funcionan normalmente pero el llamado de otros Servicio Rest de otro servidor  solo funciona una vez ...
+        ",[14],"llamado Servicio API solo funciona una vez , segunda llamada del servicio da error 1001 - usando AlamoFire en SWIFT"
+"
+            No se si alguien le ha ocurrido el problema en donde se tenia un proyecto en visual studio 2015 peor por x o y razón se tuvo que cambiar de equipo e instalar la versión de visual studio 2017 cuando ...
+        ",[15],Error al migrar solucion de visual studio 2015 a visual studio 2017
+"
+            sucede que que estoy intentando agregar una caja de Macarrones en mi sitio web de Shopify y no encuentro solución, no hay una app que haga esto.
+
+Necesito hacer algo como esta página https://www....
+        ",[16],Cómo desarrollar un producto “Build a Box” en Shopify
+"
+            Hola que tal tengo un problema con el carousel de materialize ,
+el caso es el siguiente tengo un carousel que debajo esta el navbar, el carousel solo muestra la mitad o solo una parte de la imagen tal ...
+        ",[17],Problemas con el carousel de materialize
+"
+            Quiero hacer una función que cuando se ejecute las acciones tengan una pausa como de tres segundos entre si por si no me entieden he intentado esto:
+
+  function allplay(){
+           word.play();
+     ...
+        ",[18],¿Como puedo crear una pausa del programa en Javascript?
+"
+            ya que es MVC no se como realizarla
+        ",[19],necesito llenar un select con los campos de otra tabla
+"
+            Estoy haciendo una clase que simule las LinkedList de java, debido a que el manejo de estas es diferente a los arrays me encuentro atascado con un par de métodos.
+En el código que dejo a continuación ...
+        ",[20],Manejo de LinkedList
+"
+            Soy nuevo en python y estaba intentado crear un programa que con dos numeros que ingreso me diga si los valores son iguales o no pero me salta ese error al ejecutar el programa. 
+
+def validar_numeros(...
+        ",[21],Me salta un error IndentationError: expected an indented block
+"
+            estoy intentando llenar un input tipo time con la hora actual de esta manera:
+
+<?php 
+ini_set('date.timezone','America/Bogota');
+
+$hora=date(""g:i A"");
+?>
+Y de esta forma estoy llenando el input ...
+        ",[22],Mi input tipo time no se llena automáticamente con php
+"
+            puedo renderizar una constante?
+
+const myTitle = <h1>hello world</h1>;
+
+class TodoApp extends Component {
+  render() {
+
+    return (myTitle)
+  }
+}
+quiero renderizar esta constante myTitle
+...
+        ",[23],Como renderizar una constante?
+"
+            Necesito ayuda con el tema siguiente, se pide:
+Solicitar al usuario datos sobre un coche (marca, modelo, motor, potencia y precio). 
+Añadir dos botones, uno Parsear y otro Mostrar. El primero leerá ...
+        ",[24],¿Cómo mostrar datos recogidos en formulario - JSON?
+"
+            Estoy hace unos días intentando realizar un login con reactJs y Redux. 
+
+Tengo una API en Laravel que procesa email y contraseña y devuelve un token, asique por el lado backend no hay problema.
+
+En ...
+        ",[25],Login con reactJs y Redux
+"
+            quiero hacer una barra de progreso y no funciona con el bucle while pero no se por que, ¿alguien me ayuda?
+
+try {
+            int x=0; int y=100;
+                while(x<=y) {
+                    ...
+        ",[26],¿Porque mi while no me funciona?
+"
+            Estoy queriendo mediante Telegram (modulo telepot) simular clicks de mouse para abrir una apliacion, en una unidad virtual con windows 7. Todo funciona como quisiera mientras yo este dentro d la ...
+        ",[27],Python # Simular clicks mouse unidad virtual
+"
+            En un dataframe quiero añadir una nueva variable y los valores calcularlos aplicando una función a la que le paso como parametro el valor de una de las variables ya existentes
+
+Es decir, parto de este ...
+        ",[28],Como evitar el for en R para recorrer las variables de un dataframe
+"
+            Por lo que leí en la documentación, SYSDBA y SYSOPER son tratados como ""roles"" pero al consultar DBA_ROLES no aparecen, existe alguna vista que me permite ver que contienen?
+        ",[29],Es posible ver que privilegios tienen SYSDBA y SYSOPER desde el diccionario de Datos?
+"
+            tengo una API-REST con Laravel funcionando correctamente en local, funcionan las migraciones y todo. Estoy usando amazon Elastic Beanstalk para alojarla en un servidor, he añadido los RDS_* en el ...
+        ",[30],Por qué este Migrate en servidor Laravel con Artisan no funciona?
+"
+            Recientemente hice una migración de Mercurial a Git en Bitbucket, sin problemas, y continué trabajando como hacía con Sourcetree (no me siento cómoda trabajando con consola, lo siento). Y me encuentro ...
+        ",[31],Ocultar las ramas mergeadas y cerradas de Git en Sourcetree
+"
+            Tengo una fecha menor a 1970, en este caso 06/10/1943, y la mando desde ASP.NET a Javascript por AJAX, y esta llega con el formato /Date(-828046800000)/. En JS tengo una funcion para transformar estos ...
+        ",[32],Formatear fecha en Javascript menor a 1970
+"
+            Estoy trabajando en un proyecto desarrollado en Angular con conexión a una API Rest hecha en Node, Express y Typescript.
+
+He desplegado la App en un servidor Apache 2.4.29 en una instancia (máquina ...
+        ",[33],"net::ERR_CONNECTION_REFUSED en Apache, Angular, Node API Rest"
+"
+            buen día, tengo que sumar dos cajas de texto y que la tercera de el resultado final. 
+
+la primer caja de texto graba también su valor en la del resultado, es aquí cuando resultado pasa a ser NaN, ...
+        ",[34],me da resultado NaN cuando sumo dos cajas de texto en asp.net
+"
+            Cordial saludo, al realizar un docker-compose de laravel no puedo ingresar por bash a la carpeta src. en consola docker arroja este error 
+
+Warning: DocumentRoot [/var/www/html/src/
+        ",[35],Docker compose no crea la carpeta src para laravel
+"
+            Estoy haciendo un sistema de ventas , dejo aca las dos funciones , la primera es para agregar la venta que se ingresa a una tabla y la otra es para generar la venta en la base de datos , estoy muy ...
+        ",[36],"python - tkinter , sistema de ventas"
+"
+            Necesito exportar mis conversaciones de whatsapp ha un formato en el cual pueda hacer analítica de datos
+
+Actualmente el proceso que uso es 
+*
+Para enviar tu historial de chats por correo electrónico,...
+        ",[37],Exportar conversaciones de whatsapp a formato plato .txt
+"
+            Estoy intentando obtener las snapshots creadas en los últimos 7 días para poder almacenarlas y luego realizar distintos tipos de análisis.
+
+Estoy utilizando el siguiente script:
+
+aws ec2 describe-...
+        ",[38],Describe-snapshots menor a 7 días de creación
+"
+            Anteriormente tenia una web en Shopify asociada a un DNS de GODADDY.
+Luego elimine la pagina de shopify y la asociacion con el DNS de GODADDY, y asocie una web en prestashop con el DNS DE GODADDY.
+
+...
+        ",[39],Cambie de pagina en mi DNS
+"
+            estoy intentando traer los datos de un array de post  los cuales vienen con sus respectivos comentarios, pero no logro acceder a los comentarios a traves de vuejs. con laravel simplemente hacia un ...
+        ",[40],recorrer objeto bidimensional con vuejs
+"
+            Estoy haciendo una aplicacion en Java y para crear la interfaz grafica he empleado Scene Builder. 
+Mi aplicacion almacena empleados. Los botones nuevo, editar y borrar hacen su funcion. Pero guardan ...
+        ",[41],Como conectar mi aplicacion JavaFx Scene Builder con base de datos MySQL?
+"
+            como puedo mantener los objetos introducidos en un fichero binario de objetos?
+Alguien me puede ayudar en esto , Estoy un poco desesperado , ya que llevo bastante en esto
+
+  Scanner input=new Scanner(...
+        ",[42],Como puedo añadir datos a un fichero de objetos binario sin sobreescribir los datos
+"
+            Cuando se clica el mapa, aparece un ""pop-up"" mostrando un código de referencia. Este código lo obtiene de source.getLayer. Este código es único para cada área de tierra, que pertenece a algún ...
+        ",[43],Leaflet - ¿Cómo sacar la información de una capa de mi mapa?
+"
+            tengo un pequeño login, usuario y contraseña. Cuando hay un error en el login, eje: contraseña incorrecta, el login se habilita con un click en los campos. Con qué propiedad, atributo, funcionalidad, ...
+        ",[44],Activar campos automaticamente ante un error en el login
+"
+            Estoy siguiendo los pasos de la documentación de MP pero al hacer click en el boton de Comprar, se abre el Modal de MP y dice ""Oh, no, algo anduvo mal."", y en la consola recibo el siguiente error:
+
+[...
+        ",[45],Error al integrar SDK de MercadoPago en React
+"
+            Estoy desarrollando una app en flutter que carga un mapa (de Gloogle) y en el agrego varios marcadores.
+
+La posición de los marcadores los  guardo en firebase y uso cloud_firestore para hacer ...
+        ",[46],Problemas con el socket de cloud_firestore
+"
+            Al hilo de ¿Cómo defino el tipo de letra que se ve en toda la página con Bootstrap? aprendí que hay fuentes que vienen de serie y otras que no, pero que esto depende del sistema ...
+        ",[47],¿Cómo sé qué fuentes tiene un sistema y las importo o no a la hora de cargar una página?
+"
+            Tengo la siguiente función
+
+
+
+$(""#price"").on({
+  ""focus"": function(event) {
+    $(event.target).select();
+  },
+  ""keyup"": function(event) {
+    $(event.target).val(function(index, value) {
+    ...
+        ",[48],Máscara a inputs generados de manera dinámica en php
+"
+            el código que les copio a continuación lo tengo implementado dentro de un ViewModel.
+
+ private void PopulateList() {
+      _db = FirebaseFirestore.getInstance();
+      storeRoomArrayList = new ...
+        ",[49],Problema con lectura de Firestore Database
